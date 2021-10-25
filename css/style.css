@@ -1,3 +1,21 @@
 body {
-   
+   background-color: #083B4C;
+}
+.box {
+   height: 80px;
+   width: 80px;
+   margin: 10px;
+   background-color: #1389B2;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.box.three {
+   background-color: #0BD6A1;
+}
+.box.five {
+   background-color: #FFD166;
+}
+.box.three-five {
+   background-color: #EA456E;
 }
